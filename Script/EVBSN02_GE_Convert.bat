@@ -1,0 +1,1 @@
+..\..\Script\radarPara2Array.exe ..\..\Config\radarPara\EVBSN02_GE\regs.txt ..\..\Middleware\common\src\radar_para.c 

@@ -1,0 +1,1 @@
+..\..\Script\radarPara2Array.exe ..\..\Config\radarPara\XenD101\regs.txt ..\..\Middleware\common\src\radar_para.c 

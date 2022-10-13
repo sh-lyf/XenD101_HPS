@@ -105,8 +105,13 @@ typedef struct ABD_PARA
 #endif
 
 /***---1.5m---***/
-#define ROI_MAX                         ROI_MAX_1_5_M
-#define VALID_RANGE                     VALID_RANGE_1_5_M
+//#define ROI_MAX                         ROI_MAX_1_5_M
+//#define VALID_RANGE                     VALID_RANGE_1_5_M
+
+/***---1.0m---***/
+#define ROI_MAX                         ROI_MAX_1_0_M
+#define VALID_RANGE                     VALID_RANGE_1_0_M
+
 
 #define SENSITIVITY_LEVEL_1_THD         (100)
 #define SENSITIVITY_LEVEL_2_THD         (25)
